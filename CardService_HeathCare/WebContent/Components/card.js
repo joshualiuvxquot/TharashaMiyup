@@ -135,7 +135,7 @@ function validateCardForm() {
 	// customer id  
 	if ($("#customerID").val().trim() == "") 
 	{  
-		return "customerID."; 
+		return "Insert you customerID."; 
 	} 
 	//  customer id  is numerical value  
 	var cusID = $("#customerID").val().trim(); 
