@@ -1,0 +1,19 @@
+
+Student ID	:	IT18112306
+Name		:	T M Wanniarachchi
+Batch 		: 	Y3-S1-G02.01 
+Function name	: 	Online Bill Payment
+Group Id	:	S1021.5
+
+
+My function is online payment. 
+In there I created 2 services: Card Service and Payment Service.
+First customer selects to pay the bill.
+While making the payment customer can save card details separately. 
+So, customer can save multiple accounts detail on his profile.
+Customer can update and delete those card details.
+Specially customer can’t save cvv number and expiration date of the cards. 
+If customer wish to not to save card details, customer can proceed with making the payment without saving any card details. 
+If customer has saved any accounts for make the payment, customer can select those accounts while entering details to make the payment. 
+Anyone can’t enter same account no with various customer numbers: account number is unique.
+Only customer can add, update, delete and see the their card details. And admin can view all the cards. 
